@@ -1,0 +1,5 @@
+c:\users\andrew\documents\visual studio 2010\Projects\UpdateCSPROJ\UpdateCSPROJ\bin\Debug\UpdateCSPROJ.exe.config
+c:\users\andrew\documents\visual studio 2010\Projects\UpdateCSPROJ\UpdateCSPROJ\bin\Debug\UpdateCSPROJ.exe
+c:\users\andrew\documents\visual studio 2010\Projects\UpdateCSPROJ\UpdateCSPROJ\bin\Debug\UpdateCSPROJ.pdb
+c:\users\andrew\documents\visual studio 2010\Projects\UpdateCSPROJ\UpdateCSPROJ\obj\x86\Debug\UpdateCSPROJ.exe
+c:\users\andrew\documents\visual studio 2010\Projects\UpdateCSPROJ\UpdateCSPROJ\obj\x86\Debug\UpdateCSPROJ.pdb
